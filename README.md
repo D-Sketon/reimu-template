@@ -11,7 +11,7 @@ Template for [hexo-theme-reimu](https://github.com/D-Sketon/hexo-theme-reimu)
 git clone https://github.com/D-Sketon/reimu-template
 cd reimu-template
 npm install
-hexo server
+npm run server
 ```
 
 ## Features
