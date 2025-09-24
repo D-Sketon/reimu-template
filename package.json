@@ -14,7 +14,7 @@
   "dependencies": {
     "@reimujs/hexo-algoliasearch": "^0.1.0",
     "@reimujs/hexo-renderer-markdown-it-plus": "^1.2.2",
-    "hexo": "^7.3.0",
+    "hexo": "^8.0.0",
     "hexo-deployer-git": "^4.0.0",
     "hexo-filter-mermaid-diagrams": "^1.0.5",
     "hexo-generator-archive": "^2.0.0",
