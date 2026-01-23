@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "@reimujs/hexo-algoliasearch": "^0.1.0",
-    "@reimujs/hexo-renderer-markdown-it-plus": "^1.2.2",
+    "@reimujs/hexo-renderer-markdown-it-plus": "^1.2.3",
     "hexo": "^8.1.1",
     "hexo-deployer-git": "^4.0.0",
     "hexo-filter-mermaid-diagrams": "^1.0.5",
@@ -26,6 +26,6 @@
     "hexo-renderer-stylus": "^3.0.1",
     "hexo-server": "^3.0.0",
     "hexo-tag-embed": "^1.0.0",
-    "hexo-theme-reimu": "^1.11.2"
+    "hexo-theme-reimu": "^1.12.0"
   }
 }
